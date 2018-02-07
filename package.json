@@ -1,0 +1,26 @@
+{
+  "name": "psd-layout-loader",
+  "version": "0.0.1",
+  "description": "psd layout loader for webpack",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zprodev/psd-layout-loader.git"
+  },
+  "author": "zprodev <zproject.develop@gmail.com> (https://github.com/zprodev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zprodev/psd-layout-loader/issues"
+  },
+  "homepage": "https://github.com/zprodev/psd-layout-loader#readme",
+  "keywords": [
+    "psd",
+    "webpack",
+    "loader",
+    "json"
+  ],
+  "dependencies": {
+    "loader-utils": "^1.1.0",
+    "psd2json": "^1.3.0"
+  }
+}
